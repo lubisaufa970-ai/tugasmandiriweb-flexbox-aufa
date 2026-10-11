@@ -449,6 +449,15 @@ h1 {
 
 .footer-nav a:hover {
   color: #2563eb; /* warna saat kursor diarahkan ke teks */
+
+.hero-visual img {
+    display: block;
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    object-fit: cover;
+    border-radius: 12px;
+}
 }
 
 
